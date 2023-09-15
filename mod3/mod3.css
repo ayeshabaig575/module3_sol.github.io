@@ -1,0 +1,23 @@
+.text-center {
+        font-size: 1.5em;
+        font-weight: bold;
+        margin-top: 16px;
+}
+.col {
+	margin-top: 20px;
+	background-color: gray;
+}
+.col span {
+	font-size: 1.1em;
+	text-align: center;
+	font-weight: bold;
+}
+.col p {
+	margin-top: 10px;
+}
+.navbar {
+	background-color: gray;
+}
+.navbar-dark .navbar-brand {
+    color: black;
+}
